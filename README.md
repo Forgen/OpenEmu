@@ -1,6 +1,9 @@
-OpenEmu
+OpenEmuX - The cross platform port of this excellent OS X multi-system emulator
 =======
+###Note
+> Nothing has been done on this fork yet.  WIP zero!
 
+ 
 ![alt text](http://openemu.org/img/intro-md.png "OpenEmu Screenshot")
 
 OpenEmu is an open source project to bring game emulation to OS X as a first
